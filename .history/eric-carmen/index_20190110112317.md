@@ -1,0 +1,16 @@
+---
+title: Eric Carmen
+date: "2019-01-09T22:12:03.284Z"
+type: Pop Rock
+song: Hungry Eyes
+image: "artist"
+country: USA
+---
+
+
+# Bio
+* Active since 1967, American singer, songwriter, guitarist and keyboardist in the 1970s and 1980s. Started with the Raspberries then shifted to a solo career.
+
+
+# Popular
+- Lost Memory

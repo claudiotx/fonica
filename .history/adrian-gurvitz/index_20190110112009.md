@@ -1,0 +1,16 @@
+---
+title: Adrian Gurvitz
+date: "2019-01-09T22:12:03.284Z"
+type: Pop Rock
+song: Classic
+image: "artist"
+country: UK
+---
+
+
+# Bio
+* Lost Memory
+
+
+# Popular
+- Lost Memory
